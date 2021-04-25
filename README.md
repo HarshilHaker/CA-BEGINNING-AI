@@ -12,3 +12,9 @@ To Use This Programm You Need To Download First All Packages.
 6. from win32com.client import Dispatch
 7. import datetime
 8. import subprocess
+
+
+Copy This Code To Link Your Device From Github
+
+
+https://github.com/HarshilHaker/CA-BEGINNING-AI-
