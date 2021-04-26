@@ -8,7 +8,7 @@ To Use This Programm You Need To Download First All Packages.
 3. install subprocess
 
 
-Copy This Code To Link Your Device From Github
+Copy This Code To Link Your Device With Github
 
 
-https://github.com/HarshilHaker/CA-BEGINNING-AI-
+https://github.com/HarshilHaker/CA-BEGINNING-AI
