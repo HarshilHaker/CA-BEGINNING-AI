@@ -1,4 +1,4 @@
-# CA-BEGINNING-AI
+# CA-THE-BEGINNING-AI
 This is all about AI
 
 
